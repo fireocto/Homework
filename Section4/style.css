@@ -1,0 +1,25 @@
+#beer-photo {
+  width: 400px;
+  height: auto;
+  margin: 10px 150px;
+}
+
+h2 {
+  color: black;
+  background-color: darkgray;
+}
+
+main li {
+  font-weight: bold;
+}
+
+.firstList {
+  font-style: italic;
+}
+
+body {
+  background-color: rgb(205, 232, 255);
+  padding: 5px;
+  margin: 10px 100px;
+}
+
