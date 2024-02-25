@@ -229,7 +229,7 @@ const userData = [
         "bs": "target end-to-end models"
       }
     }
-  ]
+  ];
 
 //   {
 //     "id": 1,

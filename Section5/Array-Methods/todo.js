@@ -309,10 +309,6 @@ const moreUserData = [
 //   },
 
 // create a list of user 3's to-dos
-// const userThree = data.userId === 3;
-
-// const userThreeTasks = userThree.map(task => task.title);
-// console.log(userThreeTasks);
 
 const userThreeTasks = moreUserData.filter(task => task.userId === 3);
 console.log(userThreeTasks);
